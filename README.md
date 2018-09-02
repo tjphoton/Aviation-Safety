@@ -24,7 +24,9 @@ For this project, I was interestested in using NTSB accident data to better unde
 ## File Descriptions <a name="files"></a>
 
 This [README](./README.md) gives an overview of the libary installation, project motivation, file descriptions, result article, and licensing information.
+
 Data is avaiale in the [csv](./AviationData.csv) file.
+
 Python Jupyter Notebook available [here](./Aviation.ipynb) is the script to answer the above questions. 
 
 
