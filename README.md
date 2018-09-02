@@ -23,11 +23,14 @@ For this project, I was interestested in using NTSB accident data to better unde
 
 ## File Descriptions <a name="files"></a>
 
-There is a Python Jupyter Notebook available [here](./Aviation.ipynb) to answer the above questions. 
+This [README](./README.md) gives an overview of the libary installation, project motivation, file descriptions, result article, and licensing information.
+Data is avaiale in the [csv](./AviationData.csv) file.
+Python Jupyter Notebook available [here](./Aviation.ipynb) is the script to answer the above questions. 
+
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@qiuxinjie/3-things-you-need-to-know-about-the-of-air-travel-safety-43cddf33cd23).
+The main findings of the code can be found at the blog article [here](https://medium.com/@qiuxinjie/3-things-you-need-to-know-about-the-of-air-travel-safety-43cddf33cd23).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
