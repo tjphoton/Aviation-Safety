@@ -6,8 +6,9 @@
 1. [Installation](#installation)
 2. [Project Motivation](#motivation)
 3. [File Descriptions](#files)
-4. [Results](#results)
-5. [Licensing, Authors, and Acknowledgements](#licensing)
+4. [CRISP-DM process](#CRISP-DM)
+5. [Results](#results)
+6. [Licensing, Authors, and Acknowledgements](#licensing)
 
 ## Installation <a name="installation"></a>
 
@@ -29,6 +30,29 @@ Data is avaiale in the [csv](./AviationData.csv) file.
 
 Python Jupyter Notebook available [here](./Aviation.ipynb) is the script to answer the above questions. 
 
+## CRISP-DM process implemented in the analysis <a name="CRISP-DM"></a>
+
+1. Business Objectives  
+2. Data Understanding  
+  2.1 Read NTSB aviation accident data  
+  2.2 Check data size  
+  2.3 Check field names  
+  2.4 Check sample data  
+3. Data Preparation  
+  3.1 Which fields have missing data?  
+  3.2 Handle missing data  
+  3.3 Keep relevant data field  
+  3.4 Country counts  
+  3.5 Numerical fields statistics  
+  3.6 Handel categorical variables  
+  3.7 Clean data  
+  3.8 Verify data quality  
+4. Statistic Analysis  
+  4.1 When is the most dangerous time during each flight phases?  
+  4.2 Is airplane more safe or less safe during the last few decades?  
+  4.3 Which airplane has the highest fatal accidents?  
+5. Deployment  
+6. Conclusion  
 
 ## Results<a name="results"></a>
 
