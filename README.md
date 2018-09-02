@@ -40,13 +40,13 @@ Python Jupyter Notebook available [here](./Aviation.ipynb) is the script to answ
   2.4 Check sample data  
 3. Data Preparation  
   3.1 Which fields have missing data?  
-  3.2 Handle missing data  
-  3.3 Keep relevant data field  
-  3.4 Country counts  
-  3.5 Numerical fields statistics  
-  3.6 Handel categorical variables  
-  3.7 Clean data  
-  3.8 Verify data quality  
+  3.2 Handle missing data 
+  3.3 Verify data quality  
+  3.4 Clean data  
+  3.5 Keep relevant data field  
+  3.6 Country counts  
+  3.7 Numerical fields statistics  
+  3.8 Handel categorical variables  
 4. Statistic Analysis  
   4.1 When is the most dangerous time during each flight phases?  
   4.2 Is airplane more safe or less safe during the last few decades?  
